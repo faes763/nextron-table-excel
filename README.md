@@ -3,6 +3,8 @@
 ![Main filter](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-filter.png)
 ![Main filter value](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-filter-value.png)
 ![Main filter action](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-filter-action.png)
+![Main print](https://github.com/faes763/nextron-table-excel/raw/main/view/print-page.png)
+![Main print](https://github.com/faes763/nextron-table-excel/raw/main/view/navigation.png)
 ![Edit](https://github.com/faes763/nextron-table-excel/raw/main/view/edit-page.png)
 ![Edit select](https://github.com/faes763/nextron-table-excel/raw/main/view/edit-page-select.png)
 ![Create](https://github.com/faes763/nextron-table-excel/raw/main/view/create-page.png)
