@@ -1,5 +1,5 @@
 ![Main](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page.png)
-![Main select](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-select.png)
+![Main select](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-select-rows.png)
 ![Main filter](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-filter.png)
 ![Main filter value](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-filter-value.png)
 ![Main filter action](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-filter-action.png)
