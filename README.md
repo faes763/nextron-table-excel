@@ -1,9 +1,9 @@
-![Main](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/main-page.png)
-![Main select](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/main-page-select.png)
-![Main filter](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/main-page-filter.png)
-![Edit](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/edit-page.png)
-![Edit select](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/edit-page-select.png)
-![Create](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/create-page.png)
+![Main](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page.png)
+![Main select](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-select.png)
+![Main filter](https://github.com/faes763/nextron-table-excel/raw/main/view/main-page-filter.png)
+![Edit](https://github.com/faes763/nextron-table-excel/raw/main/view/edit-page.png)
+![Edit select](https://github.com/faes763/nextron-table-excel/raw/main/view/edit-page-select.png)
+![Create](https://github.com/faes763/nextron-table-excel/raw/main/view/create-page.png)
 ## Install
 
 ```
