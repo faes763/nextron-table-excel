@@ -1,25 +1,12 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
-
-## Usage
-
-### Create an App
-
-```
-# with npx
-$ npx create-nextron-app my-app --example with-tailwindcss
-
-# with yarn
-$ yarn create nextron-app my-app --example with-tailwindcss
-
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-tailwindcss
-```
-
-### Install Dependencies
+![Main](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/main-page.png)
+![Main select](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/main-page-select.png)
+![Main filter](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/main-page-filter.png)
+![Edit](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/edit-page.png)
+![Edit select](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/edit-page-select.png)
+![Create](https://github.com/{faes763}/{nextron-table-excel}/raw/{main}/{view}/create-page.png)
+## Install
 
 ```
-$ cd my-app
-
 # using yarn or npm
 $ yarn (or `npm install`)
 
@@ -28,7 +15,6 @@ $ pnpm install --shamefully-hoist
 ```
 
 ### Use it
-
 ```
 # development mode
 $ yarn dev (or `npm run dev` or `pnpm run dev`)
